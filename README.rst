@@ -79,7 +79,7 @@ It's your choice.
 .. _Vereenigde Oostindische Compagnie (VOC): https://en.wikipedia.org/wiki/Dutch_East_India_Company
 
 Community
----------
+----------
 
 VOC is part of the `BeeWare suite`_. You can talk to the community through:
 
